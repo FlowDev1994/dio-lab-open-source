@@ -5,8 +5,6 @@ Este repositório documenta minha participação no laboratório **"Contribuindo
 
 <br>
 
-▶️ **Veja a comunidade:** [**Acesse a página do projeto aqui**](https://flowdev1994.github.io/dio-lab-open-source/)
-
 ---
 
 ### 🎯 O Objetivo do Laboratório
@@ -36,3 +34,4 @@ A conclusão deste laboratório solidificou minhas habilidades no fluxo de traba
 * **Colaboração em Equipe:** Entendimento de como propor alterações em um código base que não é seu, seguindo as diretrizes de contribuição.
 * **Markdown:** Utilização da linguagem de marcação para criar e formatar documentos de forma limpa.
 * **Cultura Open Source:** Vivência do processo colaborativo que move a comunidade de código aberto.
+
